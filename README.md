@@ -25,7 +25,7 @@ Currently learning web development fundamentals and building small educational p
 
 ## 🔗 Links
 - https://www.linkedin.com/in/giorgi-sokhashvili-0a37373a7/
-- [Portfolio](https://yourportfolio.com) – coming soon
+
 
 ---
 
